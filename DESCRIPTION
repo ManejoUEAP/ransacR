@@ -1,8 +1,0 @@
-Package: ransacR
-Title: RANSAC for Linear and Nonlinear Regression
-Version: 0.1.0
-Authors@R: person("Jadson", "Abreu", email = "jadson.ap@gmail.com", role = c("aut", "cre"))
-Description: Ajuste robusto usando o algoritmo RANSAC para modelos lm() e nls().
-License: MIT
-Encoding: UTF-8
-RoxygenNote: 7.3.2
